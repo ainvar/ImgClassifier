@@ -1,0 +1,28 @@
+# Sbt / Play
+play/logs/
+play/target/
+project/project/*
+project/target/*
+target/
+
+# Intelij Idea
+.idea/
+
+# Scala IDE
+.classpath
+.project
+.settings/
+
+# Git
+**/*.orig
+
+# Mac OS
+.DS_Store
+
+# Binaries
+*.class
+*.pyc
+
+# Ensime
+.ensime
+.ensime_cache
